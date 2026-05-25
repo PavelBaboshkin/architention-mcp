@@ -1,0 +1,11 @@
+{
+  "name": "architention-mcp",
+  "version": "0.1.0",
+  "description": "Architention for Claude Code — Instagram data, profile & video analytics, a Reels scriptwriter and a content strategist. Requires an Architention subscription and a license key.",
+  "author": {
+    "name": "Architention",
+    "url": "https://architention.com"
+  },
+  "homepage": "https://architention.com",
+  "keywords": ["instagram", "reels", "content", "analytics", "marketing"]
+}

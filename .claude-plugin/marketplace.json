@@ -1,0 +1,14 @@
+{
+  "name": "architention",
+  "owner": {
+    "name": "Architention",
+    "url": "https://architention.com"
+  },
+  "plugins": [
+    {
+      "name": "architention-mcp",
+      "source": ".",
+      "description": "Instagram data, profile & video analytics, a Reels scriptwriter and a content strategist for Claude Code. Requires an Architention subscription + license key."
+    }
+  ]
+}
