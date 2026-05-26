@@ -2,7 +2,7 @@
   "mcpServers": {
     "architention": {
       "type": "http",
-      "url": "https://mcp.architention.com/mcp",
+      "url": "https://mcp.architention.com/mcp/",
       "headers": {
         "X-License-Key": "${ARCHITENTION_LICENSE_KEY}"
       }
